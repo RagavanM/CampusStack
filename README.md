@@ -1,0 +1,2 @@
+# CampusStack
+Student ERP software
